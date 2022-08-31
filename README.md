@@ -1,4 +1,6 @@
 # meus-links
  Projeto que guarda meus links para contato + currículo
 #
-![image](https://user-images.githubusercontent.com/100864919/187801731-65373272-c9f6-489b-80a9-b5222eca6948.png)
+![image](https://user-images.githubusercontent.com/100864919/187802075-06dcaeaf-fe7e-4cbd-bfa6-d68c12c6b762.png)
+
+(imagem meramente ilustrativa)
