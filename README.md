@@ -1,3 +1,4 @@
-![imagem_2022-08-31_202320472](https://user-images.githubusercontent.com/100864919/187801627-75a68231-4b8a-458e-82bf-cff1250c2337.png)
 # meus-links
- Projeto que guarda meus links  + currículo
+ Projeto que guarda meus links para contato + currículo
+#
+![image](https://user-images.githubusercontent.com/100864919/187801731-65373272-c9f6-489b-80a9-b5222eca6948.png)
